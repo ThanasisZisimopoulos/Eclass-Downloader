@@ -271,7 +271,7 @@ if __name__ == "__main__":
 
     
 
-
+   
     courses = []
     
     # print(os.getcwd())
@@ -283,7 +283,7 @@ if __name__ == "__main__":
     #     if settings(username) : pass
 
     
-
+    
     site = Website(eclassHomeUrl, test_xpath)
     site.login(username, password)
     #print(site.status())
