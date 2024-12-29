@@ -1,0 +1,39 @@
+{
+    "foldername1":{
+        
+            "dateAdded":"",
+            "dateEdited":"",
+            "title":"",
+            "url":"",
+            "directoryStored":"",
+            "subfolders":{
+                "subfoldername1":{
+        
+                    "dateAdded":"",
+                    "dateEdited":"",
+                    "title":"",
+                    "url":"",
+                    "directoryStored":"",
+                    "subfolders":{},
+                    "files":{}
+                },
+                "foldername2":{}
+            },
+            "files":{
+                "filename1":{
+                "title":"filename1",
+                "url":"file1url",
+                "dateAdded":"",
+                "dateEdited":"",
+                "md5":"",
+                "directoryStored":""
+                }
+            }
+    },
+
+    "foldername2":{
+        
+
+        
+    }
+}
